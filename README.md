@@ -20,7 +20,7 @@ I'm a sophomore at **Sitare University** persuing B.Tech in CSE passionate about
 ## Let's Connect
 
 - 📧 Email:py96210086569@gmail.com
-- 💼 LinkedIn:linkedin.com/in/pankaj-yadav-563101250
+- 💼 LinkedIn:https://www.linkedin.com/in/pankaj-yadav-563101250/
 - 📝 Blogs:https://medium.com/@py9621008569
 
 
